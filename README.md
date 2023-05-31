@@ -1,14 +1,12 @@
 # Veermata Jijabai Technological Institute
 
-## Soham Sangole **: 211080047**
+**Soham Sangole: 211080047**
 
-## Ishaan Chandak: **211080044**
+**Ishaan Chandak: 211080044**
 
 **Mentor : Prof. Dr.V.B.Nikam**
 
-#
-**# IGT Mini Project
- Humanitarian OpenStreet Mapping**
+# **IGT Mini Project Humanitarian OpenStreet Mapping**
 
 ![](RackMultipart20230531-1-dpaj1k_html_58aac78687a609f.png)
 
