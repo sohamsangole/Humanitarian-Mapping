@@ -1,8 +1,8 @@
-Veermata Jijabai Technological Institute
+# Veermata Jijabai Technological Institute
 
-Soham Sangole **: 211080047**
+## Soham Sangole **: 211080047**
 
-Ishaan Chandak: **211080044**
+## Ishaan Chandak: **211080044**
 
 **Mentor : Prof. Dr.V.B.Nikam**
 
