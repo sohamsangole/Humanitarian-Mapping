@@ -8,9 +8,7 @@
 
 # **IGT Mini Project Humanitarian OpenStreet Mapping**
 
-![OpenStreet](images/img1.png)
-
-![Shape1](RackMultipart20230531-1-dpaj1k_html_237499165a11f2b9.gif)
+![](images/img1.png)
 
 ## Table of Contents
 
