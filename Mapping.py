@@ -55,9 +55,9 @@ osm.sample(10)
 # full list of columns
 list(osm)
 
-df1 = pd.DataFrame(osm)
+# df1 = pd.DataFrame(osm)
 
-st.table(df1)
+# st.table(df1)
 
 # +
 # to sort the data and only keep what we need, what we do is that we create a subset of the columns that we need 
