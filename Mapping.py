@@ -164,7 +164,7 @@ ctx.add_basemap(ax, source=ctx.providers.CartoDB.DarkMatter)
 ctx.add_basemap(ax, source=ctx.providers.OpenStreetMap.Mapnik)
 # -
 
-st.plotly_chart(ax)
+st.map(osm)
 
 
 
