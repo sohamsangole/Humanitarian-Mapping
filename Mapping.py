@@ -55,7 +55,7 @@ osm.sample(10)
 # full list of columns
 list(osm)
 
-# df1 = pd.DataFrame(osm)
+df1 = pd.DataFrame(osm)
 
 # st.table(df1)
 
@@ -164,7 +164,7 @@ ctx.add_basemap(ax, source=ctx.providers.CartoDB.DarkMatter)
 ctx.add_basemap(ax, source=ctx.providers.OpenStreetMap.Mapnik)
 # -
 
-st.map(ctx)
+st.map(df1)
 
 
 
