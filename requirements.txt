@@ -115,7 +115,6 @@ Pygments==2.15.1
 PyMySQL==1.0.3
 pyparsing==3.0.9
 pyperclip==1.8.2
-pypiwin32==223
 pyproj==3.5.0
 pyrsistent==0.19.3
 pyshp==2.3.1
